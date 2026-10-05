@@ -1,7 +1,7 @@
 public class ZenithMT extends KiaPicanto {
   
   public ZenithMT(){
-    description = "Te ZenithMT "
+    description = "Te Zenith MT "
   }
 
   public double cost(){
