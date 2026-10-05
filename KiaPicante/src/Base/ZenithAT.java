@@ -1,7 +1,7 @@
 public class ZenithAT extends KiaPicanto {
   
   public ZenithAT(){
-    description = "The ZenithAT "
+    description = "The Zenith AT "
   }
 
   public double cost(){
