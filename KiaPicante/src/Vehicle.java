@@ -1,5 +1,6 @@
-public abstract class Vehicle {
-  String description = "A invisible car"
+public abstract class KiaPicanto {
+  
+  String description = "A spicy car "
 
   public String getDescription(){
     return description;
