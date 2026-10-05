@@ -1,4 +1,4 @@
-public class VibrantMT extends Vehicle {
+public class VibrantMT extends KiaPicanto {
   
   public VibrantMT(){
     description = "The VibrantMT "
